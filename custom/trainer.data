@@ -1,0 +1,5 @@
+classes= 1  
+train  = /content/darknet/custom/train.txt  
+valid  = /content/darknet/custom/test.txt  
+names =  /content/darknet/custom/objects.names  
+backup = /content/darknet/custom/pothole/
