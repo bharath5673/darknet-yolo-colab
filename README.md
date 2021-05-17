@@ -1,2 +1,1 @@
-# darknet-yolo-colab
-# darknet-yolo-colab
+# darknet-yolo-colab-opencv-cuda-cudnn-openmp
